@@ -5,3 +5,7 @@ h1 {
 .jumbotron {
   background: blue;
 }
+
+#test {
+text-align: right;
+}
